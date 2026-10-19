@@ -67,3 +67,14 @@ anti-spam laws. Respect opt-outs and platform terms.
 ## License
 
 MIT.
+
+<!-- apivault-integrations:start -->
+## Hosted Actor and integrations
+
+- [Run Web Design & SEO Leads Database | 3.2M+ Audited Records on Apify](https://apify.com/apivault_labs/website-audit-leads).
+- [Current pricing and usage terms](https://apify.com/apivault_labs/website-audit-leads/pricing).
+- [n8n community package: n8n-nodes-apivault-website-audit-leads](https://www.npmjs.com/package/n8n-nodes-apivault-website-audit-leads).
+- [n8n source and usage](https://github.com/apivault-labs/apivault-labs/tree/main/community-nodes/n8n-nodes-apivault-website-audit-leads).
+
+An Apify account and API token are required. Hosted Actor/platform charges apply. npm publication is not n8n verification or confirmation of n8n Cloud availability.
+<!-- apivault-integrations:end -->
